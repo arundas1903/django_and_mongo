@@ -1,0 +1,4 @@
+django-mongodb-engine==0.5.2
+djangotoolbox==1.6.2
+pymongo==2.8.1
+Django==1.8
